@@ -1,8 +1,4 @@
 import requests
-from django.shortcuts import render
-from requests.compat import quote_plus
-from bs4 import BeautifulSoup
-
 from bs4 import BeautifulSoup
 from django.shortcuts import render
 from requests.compat import quote_plus
